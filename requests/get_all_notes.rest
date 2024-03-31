@@ -1,2 +1,4 @@
-get http://localhost:3001/api/notes
+# id = 66015442809249cf88957bd6
+
+delete http://localhost:3001/api/notes/6606fb3c0e925f45aa72f373
 
